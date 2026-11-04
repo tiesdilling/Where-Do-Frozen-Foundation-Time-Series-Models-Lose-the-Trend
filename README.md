@@ -24,6 +24,3 @@ Requirements: Python with numpy, pandas and matplotlib, plus `chronos-forecastin
 
 The model predictions (about 15 GB) are on Zenodo: DOI will be added after upload.
 
-## Citation
-
-Dilling, T. (2026). *Where Do Frozen Foundation Time Series Models Lose the Trend? Phase Diagrams on a Fully Known Random Walk*. MSc thesis, University of Twente.
