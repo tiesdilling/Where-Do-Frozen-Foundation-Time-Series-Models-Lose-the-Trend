@@ -16,7 +16,7 @@ Code for the MSc thesis of Ties Dilling (University of Twente, 2026). Four froze
 3. Run the four model notebooks.
 4. Run the four analysis notebooks.
 
-To only redo the analysis, download the predictions from Zenodo and start at step 4.
+To only redo the analysis, download the predictions from Zenodo (data will be uploaded soon) and start at step 4.
 
 Requirements: Python with numpy, pandas and matplotlib, plus `chronos-forecasting`, `uni2ts` and `timesfm` for the models.
 
