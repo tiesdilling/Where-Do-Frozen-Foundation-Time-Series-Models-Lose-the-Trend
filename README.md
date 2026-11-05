@@ -22,5 +22,5 @@ Requirements: Python with numpy, pandas and matplotlib, plus `chronos-forecastin
 
 ## Data
 
-The model predictions (about 15 GB) are on Zenodo: DOI will be added after upload.
+The model predictions will be uploaded on Zenodo: DOI will be added after upload.
 
